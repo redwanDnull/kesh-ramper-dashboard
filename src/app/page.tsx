@@ -89,11 +89,11 @@ export default function Home() {
                 <div className="absolute top-20 right-[-12px] bg-[#CCAAEE]/10 blur-[50px] h-[500px] w-[500px]  rounded-full" />
         
                 <div className="w-full z-40  lg:pb-0 pb-12   rounded-lg flex lg:items-end items-center lg:justify-end justify-center">
-                  <div className='w-[403px]  h-[670px]  shadow-lg rounded-3xl p-2 border-primary bg-gradient-to-tr from-[#6600CC] via-[#9046DA] to-[#6600CC]' >
+                  <div className='w-[405px]  h-[680px]  shadow-lg rounded-3xl p-2 border-primary bg-gradient-to-tr from-[#6600CC] via-[#9046DA] to-[#6600CC]' >
                     <iframe
-                     className="rounded-3xl overflow-hidden w-[365px] lg:w-[385px] "
+                     className="rounded-2xl overflow-hidden w-[387px] lg:w-[387px] "
                       src="https://kesh-ramper-widget.vercel.app/"
-                      height={655}
+                      height={662}
                       style={{ overflow: 'hidden', border: 'none' }}
                     ></iframe>
                   </div>

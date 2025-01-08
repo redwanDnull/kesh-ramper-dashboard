@@ -18,7 +18,7 @@ export default function AuthLayout({
                     {children}
                     <div className="relative hidden  lg:block p-8 ">
                         <div className="w-full h-full flex flex-col items-center justify-between">
-                            <Image src={AuthImage} alt="expImage"  width={700} height={600}/>
+                            <Image src={AuthImage} alt="expImage"  width={650} height={600}/>
                         </div>
                     </div>
                 </div>
