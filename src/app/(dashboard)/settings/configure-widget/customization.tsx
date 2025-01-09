@@ -89,7 +89,7 @@ const Customization = () => {
                             <div className={`w-fit  ` }>
                                     <iframe
                                     className="rounded-2xl overflow-hidden w-[390px] lg:w-[390px] "
-                                    src={`https://kesh-ramper-widget.vercel.app/?primary=${selectedPrimary}`}
+                                    src={`https://keshflip-pay-widget.vercel.app/?primary=${selectedPrimary}`}
                                     height={665}
                                     style={{ overflow: 'hidden', border: 'none' }}
                                     ></iframe>
